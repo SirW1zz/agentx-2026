@@ -460,7 +460,7 @@ function App() {
 
         <Box component="footer" sx={{ py: 3, textAlign: 'center', bgcolor: 'transparent' }}>
           <Typography variant="body2" color="text.secondary">
-            © IT Mambas
+            © IT Mambas / Gemini can make mistakes, so double-check it.
           </Typography>
         </Box>
       </Box>
