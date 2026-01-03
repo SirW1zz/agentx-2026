@@ -1,6 +1,3 @@
-
-CMD ["nginx", "-g", "daemon off;"]
-# Step 1: Build the React application
 FROM node:22-alpine as build-step
 WORKDIR /app
 
